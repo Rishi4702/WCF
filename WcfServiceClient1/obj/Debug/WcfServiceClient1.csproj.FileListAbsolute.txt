@@ -1,0 +1,15 @@
+C:\Users\golur\source\repos\Exercise4\WcfServiceClient1\bin\Debug\WcfServiceClient1.exe.config
+C:\Users\golur\source\repos\Exercise4\WcfServiceClient1\bin\Debug\WcfServiceClient1.exe
+C:\Users\golur\source\repos\Exercise4\WcfServiceClient1\bin\Debug\WcfServiceClient1.pdb
+C:\Users\golur\source\repos\Exercise4\WcfServiceClient1\bin\Debug\WcfService1.dll
+C:\Users\golur\source\repos\Exercise4\WcfServiceClient1\bin\Debug\WcfServiceHost1.exe
+C:\Users\golur\source\repos\Exercise4\WcfServiceClient1\bin\Debug\WcfService1.pdb
+C:\Users\golur\source\repos\Exercise4\WcfServiceClient1\bin\Debug\WcfService1.dll.config
+C:\Users\golur\source\repos\Exercise4\WcfServiceClient1\bin\Debug\WcfServiceHost1.pdb
+C:\Users\golur\source\repos\Exercise4\WcfServiceClient1\bin\Debug\WcfServiceHost1.exe.config
+C:\Users\golur\source\repos\Exercise4\WcfServiceClient1\obj\Debug\WcfServiceClient1.csproj.AssemblyReference.cache
+C:\Users\golur\source\repos\Exercise4\WcfServiceClient1\obj\Debug\WcfServiceClient1.csproj.CoreCompileInputs.cache
+C:\Users\golur\source\repos\Exercise4\WcfServiceClient1\obj\Debug\WcfServiceClient1.csproj.CopyComplete
+C:\Users\golur\source\repos\Exercise4\WcfServiceClient1\obj\Debug\WcfServiceClient1.exe
+C:\Users\golur\source\repos\Exercise4\WcfServiceClient1\obj\Debug\WcfServiceClient1.pdb
+C:\Users\golur\source\repos\Exercise4\WcfServiceClient1\obj\Debug\WcfServiceClient1.csproj.SuggestedBindingRedirects.cache
